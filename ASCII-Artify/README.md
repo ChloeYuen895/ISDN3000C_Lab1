@@ -4,7 +4,7 @@
 This project provides Python scripts to convert images and webcam video into ASCII art, with optional color output using the `rich` library. It also includes a script that uses OpenCV (`cv2`) to capture webcam video and generate ASCII art in real time, displaying the live ASCII output directly in your terminal.
 
 ## Requirements
-- Install dependencies from `requirements.txt`:
+Install dependencies from `requirements.txt`:
   ```sh
   pip install -r requirements.txt
   ```
